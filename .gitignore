@@ -1,0 +1,6 @@
+
+\.idea/
+
+jd/__pycache__/
+
+jd/spiders/__pycache__/
